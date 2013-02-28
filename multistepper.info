@@ -1,0 +1,5 @@
+name = Multi Step Form
+description = Gathers user information upon registration.
+package = Alex
+version = VERSION
+core = 7.x
